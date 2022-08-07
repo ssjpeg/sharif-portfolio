@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       left: 0;
       right: 0;
-      background: #1FAD9F;
+      background: rgb(51, 0, 255);
       height: 2px;
       content: " "; }
   .probootstrap-cover.overlay {
@@ -500,7 +500,7 @@ textarea {
         display: inline-block;
         margin: 5px 7px; }
       .probootstrap-owl .owl-dots .owl-dot.active span {
-        background: #1FAD9F; }
+        background: rgb(51, 0, 255); }
   .probootstrap-owl:hover .owl-nav {
     visibility: visible;
     opacity: 1; }

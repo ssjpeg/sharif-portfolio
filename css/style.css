@@ -2,7 +2,7 @@ html {
   overflow-x: hidden; }
 
 body {
-  font-family: "Work Sans", sans-serif;
+  
   line-height: 1.8;
   font-size: 14px;
   background: #fff;
@@ -17,7 +17,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white!important;
-    font-weight: 700!important;
+    font-weight: bold!important;
     font-size: 30px!important;
   }
 a {
@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5,
   @media screen and (max-width: 768px) {
     .probootstrap-main {
       width: 100%;
-      padding: 30px 15px; } }
+      padding: 50px 15px; } }
   @media screen and (max-width: 1140px) {
     .probootstrap-main .card-columns {
       -webkit-columns: 3;

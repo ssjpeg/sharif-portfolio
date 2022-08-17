@@ -576,6 +576,10 @@ textarea {
   color: rgb(35, 0, 173)
 }
 
+.linkedIcon{
+  width: 36px;
+}
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);

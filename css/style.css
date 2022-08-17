@@ -568,6 +568,14 @@ textarea {
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
 
+.linkToProject {
+  color: rgb(51, 0, 255)
+}
+
+.linkToProject:hover {
+  color: rgb(35, 0, 173)
+}
+
 .linkedIcon{
   width: 36px;
 }
